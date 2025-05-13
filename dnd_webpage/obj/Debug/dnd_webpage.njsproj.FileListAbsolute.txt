@@ -1,0 +1,3 @@
+C:\Users\ejsev\Desktop\dnd_page\dnd_webpage\obj\Debug\dnd_webpage.njsproj.AssemblyReference.cache
+C:\Users\ejsev\Desktop\dnd_page\dnd_webpage\obj\Debug\dnd_webpage.njsproj.CoreCompileInputs.cache
+C:\Users\ejsev\Desktop\dnd_page\dnd_webpage\bin\Microsoft.NodejsTools.WebRole.dll

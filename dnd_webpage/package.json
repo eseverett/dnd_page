@@ -1,0 +1,14 @@
+{
+  "name": "dnd_webpage",
+  "version": "0.0.0",
+  "description": "dnd_webpage",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
