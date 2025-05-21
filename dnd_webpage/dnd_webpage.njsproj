@@ -41,6 +41,7 @@
     <Content Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="users.js" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />

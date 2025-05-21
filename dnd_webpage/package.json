@@ -9,6 +9,8 @@
   "devDependencies": {
     "eslint": "^8.21.0"
   },
-  "eslintConfig": {
+  "eslintConfig": {},
+  "dependencies": {
+    "csv-parser": "^3.2.0"
   }
 }
