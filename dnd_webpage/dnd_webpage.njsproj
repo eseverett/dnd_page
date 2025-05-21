@@ -29,9 +29,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="public\admin-dashboard.html" />
+    <Content Include="public\css\login.css" />
     <Content Include="public\css\style.css" />
+    <Content Include="public\dm-dashboard.html" />
     <Content Include="public\images\homepage_background.jpg" />
+    <Content Include="public\images\login_background.jpg" />
     <Content Include="public\index.html" />
+    <Content Include="public\login.html" />
+    <Content Include="public\player-dashboard.html" />
     <Content Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
